@@ -329,7 +329,7 @@ class AssociationCollection implements IteratorAggregate
     }
 
     /**
-     * Get the _name of all the associations in the collection.
+     * Get the names of all the associations in the collection.
      *
      * @return array
      */
